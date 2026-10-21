@@ -1,6 +1,6 @@
 # Hi, I'm Artur 👋
 
-**Indie builder from Zaporizhzhia, Ukraine.** I run my projects as a small multi-agent
+**Developer from Zaporizhzhia, Ukraine.** I run my projects as a small multi-agent
 operation: coding agents build, an independent agent audits, and nothing is accepted
 until it's verified against the files on disk.
 
