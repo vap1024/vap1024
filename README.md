@@ -1,8 +1,24 @@
 # Hi, I'm Artur 👋
 
-**Developer from Kyiv, Ukraine.** I run my projects as a small multi-agent
-operation: coding agents build, an independent agent audits, and nothing is accepted
-until it's verified against the files on disk.
+**Developer from Kyiv, Ukraine.** I build software as a small multi-agent
+operation: coding agents implement, an independent agent audits, and nothing is
+accepted until it's verified against the files on disk. Most of my work sits where
+AI agents meet real data — trading research, market audits and automation that
+has to be right, not just plausible.
+
+## What I do
+
+- **Multi-agent development systems** — Builder/Auditor workflows where building
+  and verification are separate roles: written briefs, acceptance checklists and
+  results confirmed on disk, not taken from an agent's summary.
+- **Market audit toolkits** — pre-mint NFT scoring and L2 shutdown-risk analysis
+  that read public sources like a risk desk and publish their verdicts,
+  including the FAILs.
+- **Paper-trading research** — long-horizon experiments with the rules frozen
+  before the start: forward tests, backtests and honest post-mortems instead of
+  cherry-picked wins.
+- **Data pipelines and bots** — Python services on Linux/systemd, Telegram
+  tooling, parsers and monitoring built to run unattended for months.
 
 ## How I work: Builder vs Auditor
 
@@ -36,3 +52,4 @@ Linux/systemd · paper-trading experiment frameworks with frozen rules
 
 - Documenting the Builder vs Auditor workflow in Russian and Ukrainian for builders in Eastern Europe
 - Running long-horizon paper experiments where the rules are frozen before the start — and the FAIL verdicts get published too
+- Feedback, issues and ideas on the featured projects are welcome — that's the point of keeping all of this open
