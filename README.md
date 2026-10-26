@@ -15,17 +15,17 @@ that never happened. My fix is separation of duties:
    counts recalculated, claims traced to sources.
 
 The workflow, templates and checklists are open:
-[**codex-audit-workflow**](https://github.com/vap1024/codex-audit-workflow)
+[**codex-ops-system**](https://github.com/vap1024/codex-ops-system)
 
 ## Featured projects
 
 | Project | What it does |
 | --- | --- |
-| [codex-audit-workflow](https://github.com/vap1024/codex-audit-workflow) | Builder vs Auditor toolkit: audit-brief generator, claim checker, acceptance checklist |
-| [contact-base-builder](https://github.com/vap1024/contact-base-builder) | Turns raw creator exports into a clean, deduplicated contact base with a conflict report |
-| [agent-goal-control](https://github.com/vap1024/agent-goal-control) | File-based goal tracking for agent-assisted work: statuses, stale-goal detection, digests |
+| [codex-ops-system](https://github.com/vap1024/codex-ops-system) | One agent builds, Codex audits, nothing ships unverified — an operating system for multi-agent development: frozen briefs, source-checked audits, acceptance verified on disk |
+| [l2-project-audit](https://github.com/vap1024/l2-project-audit) | Will this L2 die before the market notices? An audit toolkit that reads public announcements like a risk desk: delisting and shutdown classification, token-fate analysis, a 0–10 health score |
+| [nft-collection-audit](https://github.com/vap1024/nft-collection-audit) | Mint or skip — decided by a score, not by hype. A pre-mint audit with a hard 7.0 gate, wash-trading heuristics and contract risk checks, plus a 30-day tracker that grades every call, wins and FAILs alike |
 
-All three were built with Codex in October 2026 and ship with tests and synthetic demo data only.
+All three were built with Codex in October 2026 and ship with tests, CI and synthetic demo data only.
 
 ## Stack
 
